@@ -6,6 +6,8 @@ El desafío es construir este componente y lograr que se parezca lo más posible
 - CSS
 - JS Vanilla (with animejs library)
 
+![desktop-preview](https://user-images.githubusercontent.com/112582420/226073038-ad3ba41c-2fe1-496d-bf36-8c1ab2983eb6.jpg)
+
 # Guía de Estilo
 
 ## Diseño
